@@ -4,6 +4,9 @@
   "engines": {
     "node": "8.11.1"
   },
+  "scripts": {
+    "start": "node hudson.js"
+  },
   "description": "Hudson Discord Bot",
   "main": "hudson.js",
   "author": "Emetophobic",
