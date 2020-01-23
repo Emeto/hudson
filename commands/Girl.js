@@ -28,7 +28,7 @@ module.exports = class GirlCommand extends Commando.Command {
 
         await message.channel.send(selected_phrase, {
             files: [{
-                attachment: 'https://air-traffic.itoss.ovh/random',
+                attachment: 'https://air-traffic.itoss.ovh/jets/random',
                 name: fileName + '.jpg'
             }]
         });

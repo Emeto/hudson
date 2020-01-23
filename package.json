@@ -1,6 +1,9 @@
 {
   "name": "HudsonBot",
   "version": "1.0.0",
+  "engines": {
+    "node": "8.11.1"
+  },
   "description": "Hudson Discord Bot",
   "main": "hudson.js",
   "author": "Emetophobic",

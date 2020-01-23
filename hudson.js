@@ -58,8 +58,6 @@ client.registry
         require('./commands/About'),
         require('./commands/Girl'),
         require('./commands/QuestionAnswer'),
-        require('./commands/Eva'),
-        require('./commands/Ines'),
         require('./commands/Magic8Ball')
     ]);
 
